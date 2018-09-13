@@ -11,6 +11,9 @@ contributor:
     deathdate: 1961
     gutenberg_agent_id: '46469'
     url: http://www.gutenberg.org/2009/agents/46469
+covers:
+- cover_type: archival
+  image_path: 51553-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Owen, J. A. (Jean Allan)
@@ -26,6 +29,8 @@ creator:
     gutenberg_agent_id: '46468'
     url: http://www.gutenberg.org/2009/agents/46468
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51553#Birds-useful-and-birds-harmful
 gutenberg_issued: '2016-03-25'
 gutenberg_type: Text
 identifiers:
